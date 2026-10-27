@@ -1,0 +1,7 @@
+{
+  "name": "RumahKita",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
